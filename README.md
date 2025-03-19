@@ -17,9 +17,23 @@ A simple and efficient tool to change your IP address dynamically, ensuring bett
 #Instalation
 ---
 Clone the github:
-txt'''
+```txt
 git clone https://github.com/Pranav-V-20/ip-changer.git
-'''
+```
+
+Enter into the directory:
+```txt
+cd ip-changer
+```
+
+Run the tool:
+```txt
+bash ip-changer.sh
+```
+
+#Testing
+---
+Test your ip in the BrowerLeaks.com 
 
 #Contribution
 ---
