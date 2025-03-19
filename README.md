@@ -18,7 +18,7 @@ A simple and efficient tool to change your IP address dynamically, ensuring bett
 ---
 Clone the github:
 txt'''
-git clone
+git clone https://github.com/Pranav-V-20/ip-changer.git
 '''
 
 #Contribution
