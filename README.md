@@ -33,7 +33,7 @@ bash ip-changer.sh
 
 #Testing
 ---
-Test your ip in the BrowerLeaks.com 
+Test your ip in the [Link Text](BrowserLeaks.com)
 
 #Contribution
 ---
